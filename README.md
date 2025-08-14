@@ -1,3 +1,5 @@
+NOTE: I plan to include username at a different time.
+
 Decompress the storyPoster file
 
 Enter your database info in the app.js section.
